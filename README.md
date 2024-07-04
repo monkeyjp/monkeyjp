@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Personalia](https://github.com/julitar/Personalia)
+- 🔭 I’m currently working on [EmailPref](https://www.emailpref.com/)
 
 - 🌱 I’m currently learning **React Native**
 
