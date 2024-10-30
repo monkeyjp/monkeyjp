@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monkeyjp&show_icons=true&locale=en&layout=compact" alt="monkeyjp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monkeyjp&show_icons=true&locale=en" alt="monkeyjp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monkeyjp&show_icons=true" alt="monkeyjp" /></p>
